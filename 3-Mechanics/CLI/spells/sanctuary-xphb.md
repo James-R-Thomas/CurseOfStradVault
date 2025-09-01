@@ -1,0 +1,59 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/xphb
+- spell/class/artificer
+- spell/class/bard
+- spell/class/cleric
+- spell/feat/artificer-initiate
+- spell/feat/magic-initiate
+- spell/level/1st-level
+- spell/school/abjuration
+- spell/subclass/college-of-lore
+- spell/subclass/divine-soul
+- spell/subclass/oath-of-redemption
+- spell/subclass/peace-domain
+- spell/subclass/the-genie
+classes:
+- Artificer
+- Bard
+- Bard (College of Lore)
+- Cleric
+- Cleric (Peace Domain)
+- Paladin (Oath of Redemption)
+- Sorcerer (Divine Soul)
+- Warlock (The Genie)
+aliases:
+- Sanctuary
+CastingTime: 
+- 1 Bonus Action
+Range:
+- 30 feet
+Components:
+- V, S, M (a shard of glass from a mirror)
+Duration:
+- 1 minute
+School:
+- Abjuration
+InBook: false
+Prepared: false
+SpellLevel:
+- 1st-level
+---
+# Sanctuary
+*1st-level, Abjuration*  
+
+
+- **Casting time:** 1 Bonus Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a shard of glass from a mirror)
+- **Duration:** 1 minute
+
+You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
+
+The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
+
+**Classes**: [Cleric (Peace Domain)](/3-Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

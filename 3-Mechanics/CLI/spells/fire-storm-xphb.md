@@ -1,0 +1,51 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/sorcerer
+- spell/level/7th-level
+- spell/school/evocation
+- spell/subclass/divine-soul
+classes:
+- Bard
+- Cleric
+- Druid
+- Sorcerer
+- Sorcerer (Divine Soul)
+aliases:
+- Fire Storm
+CastingTime: 
+- 1 Action
+Range:
+- 150 feet
+Components:
+- V, S
+Duration:
+- Instantaneous
+School:
+- Evocation
+InBook: false
+Prepared: false
+SpellLevel:
+- 7th-level
+---
+# Fire Storm
+*7th-level, Evocation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) must be contiguous with at least one other [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md). Each creature in the area makes a Dexterity saving throw, taking `dice:7d10|noform|noparens|avg` (`7d10`) Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the area that aren't being worn or carried start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md).
+
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

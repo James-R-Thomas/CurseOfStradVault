@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.hasTag("spell/class/wizard")
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+  Untitled 3: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - cssclasses.contains("json5e-spell")
+    order:
+      - file.name
+      - Prepared
+      - InBook
+      - SpellLevel
+      - Range
+      - School
+      - Duration
+    sort:
+      - property: School
+        direction: ASC
+      - property: SpellLevel
+        direction: ASC
+      - property: aliases
+        direction: ASC
+    columnSize:
+      file.fullname: 188
+      note.Duration: 199

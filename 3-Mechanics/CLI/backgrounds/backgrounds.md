@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Backgrounds
+
+- [Acolyte](./acolyte-xphb.md)
+- [Artisan](./artisan-xphb.md)
+- [Charlatan](./charlatan-xphb.md)
+- [City Watch (Investigator) (Variant)](./city-watch-investigator-variant-scag.md)
+- [City Watch](./city-watch-scag.md)
+- [Clan Crafter](./clan-crafter-scag.md)
+- [Cloistered Scholar](./cloistered-scholar-scag.md)
+- [Courtier](./courtier-scag.md)
+- [Criminal](./criminal-xphb.md)
+- [Entertainer](./entertainer-xphb.md)
+- [Faction Agent](./faction-agent-scag.md)
+- [Far Traveler](./far-traveler-scag.md)
+- [Farmer](./farmer-xphb.md)
+- [Guard](./guard-xphb.md)
+- [Guide](./guide-xphb.md)
+- [Hermit](./hermit-xphb.md)
+- [Inheritor](./inheritor-scag.md)
+- [Knight of the Order](./knight-of-the-order-scag.md)
+- [Mercenary Veteran](./mercenary-veteran-scag.md)
+- [Merchant](./merchant-xphb.md)
+- [Noble](./noble-xphb.md)
+- [Sage](./sage-xphb.md)
+- [Sailor](./sailor-xphb.md)
+- [Scribe](./scribe-xphb.md)
+- [Soldier](./soldier-xphb.md)
+- [Urban Bounty Hunter](./urban-bounty-hunter-scag.md)
+- [Uthgardt Tribe Member](./uthgardt-tribe-member-scag.md)
+- [Waterdhavian Noble](./waterdhavian-noble-scag.md)
+- [Wayfarer](./wayfarer-xphb.md)

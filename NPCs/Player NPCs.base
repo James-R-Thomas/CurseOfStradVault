@@ -1,0 +1,26 @@
+views:
+  - type: cards
+    name: PlayerNPC_Cards
+    filters:
+      and:
+        - type == "PlayerNPC"
+        - KnownByParty == true
+    order:
+      - file.name
+    columnSize:
+      file.name: 168
+      note.Location: 218
+    image: note.tokenLink
+    cardSize: 130
+    imageAspectRatio: 1
+  - type: table
+    name: PlayerNPC_Table
+    filters:
+      and:
+        - and:
+            - type == "PlayerNPC"
+    order:
+      - file.name
+      - Location
+      - KnownByParty
+      - LastKnownStatus

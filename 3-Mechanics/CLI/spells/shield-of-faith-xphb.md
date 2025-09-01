@@ -1,0 +1,54 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/paladin
+- spell/feat/magic-initiate
+- spell/level/1st-level
+- spell/school/abjuration
+- spell/subclass/college-of-lore
+- spell/subclass/divine-soul
+- spell/subclass/oath-of-devotion
+- spell/subclass/war-domain
+classes:
+- Bard
+- Bard (College of Lore)
+- Cleric
+- Cleric (War Domain)
+- Paladin
+- Paladin (Oath of Devotion)
+- Sorcerer (Divine Soul)
+aliases:
+- Shield of Faith
+CastingTime: 
+- 1 Bonus Action
+Range:
+- 60 feet
+Components:
+- V, S, M (a prayer scroll)
+Duration:
+- Concentration, up to 10 minutes
+School:
+- Abjuration
+InBook: false
+Prepared: false
+SpellLevel:
+- 1st-level
+---
+# Shield of Faith
+*1st-level, Abjuration*  
+
+
+- **Casting time:** 1 Bonus Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a prayer scroll)
+- **Duration:** Concentration, up to 10 minutes
+
+A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+
+**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
+
+*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

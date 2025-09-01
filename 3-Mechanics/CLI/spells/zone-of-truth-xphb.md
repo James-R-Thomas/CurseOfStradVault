@@ -1,0 +1,59 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/xphb
+- spell/class/bard
+- spell/class/cleric
+- spell/class/paladin
+- spell/level/2nd-level
+- spell/school/enchantment
+- spell/subclass/college-of-lore
+- spell/subclass/divine-soul
+- spell/subclass/monster-slayer
+- spell/subclass/oath-of-devotion
+- spell/subclass/oath-of-the-crown
+- spell/subclass/order-domain
+classes:
+- Bard
+- Bard (College of Lore)
+- Cleric
+- Cleric (Order Domain)
+- Paladin
+- Paladin (Oath of Devotion)
+- Paladin (Oath of the Crown)
+- Ranger (Monster Slayer)
+- Sorcerer (Divine Soul)
+aliases:
+- Zone of Truth
+CastingTime: 
+- 1 Action
+Range:
+- 60 feet
+Components:
+- V, S
+Duration:
+- 10 minutes
+School:
+- Enchantment
+InBook: false
+Prepared: false
+SpellLevel:
+- 2nd-level
+---
+# Zone of Truth
+*2nd-level, Enchantment*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 10 minutes
+
+You create a magical zone that guards against deception in a 15-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
+
+An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
+
+**Classes**: [Ranger (Monster Slayer)](/3-Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Cleric (Order Domain)](/3-Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Paladin (Oath of the Crown)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

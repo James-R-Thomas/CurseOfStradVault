@@ -1,0 +1,183 @@
+{
+  "mapMarkers": [
+    {
+      "id": "TownOfVallakiLeaflet",
+      "lastAccessed": 1756768641065,
+      "markers": [
+        {
+          "id": "ID_6bd888ba3af8",
+          "type": "default",
+          "loc": [
+            491.0267267758963,
+            1837.0526296852645
+          ],
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Stockyard",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_69e8e9992a1a",
+          "type": "default",
+          "loc": [
+            442.41668701171875,
+            1694.064076484947
+          ],
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Coffin Maker",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_c90a1a0b788a",
+          "type": "default",
+          "loc": [
+            470.41668701171875,
+            1282.131122864117
+          ],
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Burgomaster's Mansion",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_9a99e98908eb",
+          "type": "default",
+          "loc": [
+            555.0872263188501,
+            1318.0849807509828
+          ],
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Toy Shop",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_1b49d80bc8ca",
+          "type": "default",
+          "loc": [
+            665.6834880141032,
+            1329.380609862208
+          ],
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blue Water Inn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker-alt",
+    "color": "#fb0909",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "always",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[Town of Vallaki.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Town of Vallaki.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 3.623188405797101,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "TownOfVallakiLeaflet",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1276,
+        2128
+      ]
+    ],
+    "width": "90%",
+    "lat": 638,
+    "long": 1064,
+    "unit": "ft",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
