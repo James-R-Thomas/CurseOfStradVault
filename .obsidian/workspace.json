@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "135e31aa0ee38b71",
+        "id": "7bb1b350a7c7b266",
         "type": "tabs",
         "children": [
           {
-            "id": "6dee0424c2d66e1f",
+            "id": "49bd9ad364ff8ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Village of Barovia Map"
+              "title": "New tab"
             }
           }
         ]
@@ -188,18 +184,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6dee0424c2d66e1f",
+  "active": "9971f8a9e29e8052",
   "lastOpenFiles": [
-    "Locations/Locations/Location Data/Maps/Images/Village of Barovia.png",
-    "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
+    "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
+    "Locations/Locations/Vistani Camp Page.md",
     "Locations/Locations/Village of Barovia Page.md",
+    "Locations/Locations/Town of Vallaki Page.md",
+    "Locations/Locations/Location Data/Maps/Vasanti Camp Map.md",
+    "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
+    "Locations/Locations/Location Data/Maps/Images/Vasanti Camp.webp",
+    "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
+    "Locations/Locations/Location Data/Maps/Images/Unconfirmed 176983.crdownload",
+    "Locations/Locations/Location Data/Maps/Images/Village of Barovia.png",
     "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
     "z_Templates/Insert Location Map.md",
     "z_Templates/Leaflet Map Template.md",
     "z_Templates/Location Template.md",
     "z_Templates/Place Template.md",
     "z_Templates/PlayerNPC_Template.md",
-    "Locations/Locations/Vistani Camp Page.md",
     "NPCs/NPC Files/PlayerNPCFiles/Madam Eva.md",
     "NPCs/Player NPCs.base",
     "NPCs/NPC Files/PlayerNPCFiles/Donavich.md",
@@ -210,15 +212,12 @@
     "NPCs/NPC Files/PlayerNPCFiles/Gadof Blinsky.md",
     "NPCs/NPC Files/PlayerNPCFiles/Szoldar Szoldarovich.md",
     "NPCs/NPC Files/PlayerNPCFiles/Yevgeni Krushkin.md",
-    "Locations/Locations/Town of Vallaki Page.md",
     "Locations/Places/Toy Shop.md",
     "Locations/Places/Burgomaster's Mansion.md",
     "Locations/Places/Coffin Maker.md",
     "Locations/Places/Stockyard.md",
     "Locations/Places/Blue Water Inn.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Beucephalus.md",
     "Locations/Locations/Location Data",
-    "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
     "Locations/Locations/Location Data/Maps/Images",
     "Locations/Locations/Location Data/Maps",
     "Locations/New folder",
@@ -232,8 +231,6 @@
     "NPCs/NPC Files/npc/img/053-cos05-06.webp",
     "NPCs/NPC Files/npc/img/052-cos05-05.webp",
     "NPCs/NPC Files/npc/img/016-cos03-04.webp",
-    "NPCs/NPC Files/npc/img/005-cos02-02.webp",
-    "NPCs/NPC Files/npc/img/zygfrek-belview.webp",
-    "y_Common Rule Lookup"
+    "NPCs/NPC Files/npc/img/005-cos02-02.webp"
   ]
 }

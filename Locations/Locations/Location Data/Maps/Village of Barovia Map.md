@@ -6,14 +6,6 @@ scale_pixels_range: 120
 mapCalc1: 0.6091370558375635
 ---
 
-> [!NOTE]- Quick Calculator  
-> Map Height in Pixels: `INPUT[number:map_height_y]`  
-> Map Width in Pixels: `INPUT[number:map_width_x]`  
-> lat: `VIEW[{map_height_y} / 2][math]`  
-> long: `VIEW[{map_width_x} / 2][math]`  
-> How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
-> How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
-> Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
 
 
 

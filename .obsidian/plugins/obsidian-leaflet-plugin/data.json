@@ -1,8 +1,141 @@
 {
   "mapMarkers": [
     {
+      "id": "VillageOfBaroviaLeaflet",
+      "locked": false,
+      "lastAccessed": 1756774351377,
+      "markers": [
+        {
+          "id": "ID_79583b094b39",
+          "type": "default",
+          "loc": [
+            894.6666564941406,
+            261.6649288517574
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25553215708179433,
+            -0.6839959147508721
+          ],
+          "description": "Church VoB",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ebfb58f99849",
+          "type": "default",
+          "loc": [
+            161.54164123535156,
+            407.91472915214166
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Burgomaster's Mansion  VOB",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_1a3938b8c959",
+          "type": "default",
+          "loc": [
+            416,
+            445.66674763983826
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43522143324202955,
+            -0.3180428134556575
+          ],
+          "description": "Mad Mary's Townhouse",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_29c969fb0bab",
+          "type": "default",
+          "loc": [
+            513.6666870117188,
+            498.9990906059595
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48730379941988233,
+            -0.392711534412629
+          ],
+          "description": "Bildrath's Mercantile",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_a9d8da9848fa",
+          "type": "default",
+          "loc": [
+            666.5416412353516,
+            506.92373215314194
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blood of the Vine Tavern",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_1bd9a9bb9889",
+          "type": "default",
+          "loc": [
+            703.2082977294922,
+            874.6237935135575
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Death House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_b8385aba5ba9",
+          "type": "default",
+          "loc": [
+            1094.5416259765625,
+            250.23376506657524
+          ],
+          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cemetery VoB",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Locations/Location Data/Maps/Village of Barovia Map.md"
+      ]
+    },
+    {
       "id": "TownOfVallakiLeaflet",
-      "lastAccessed": 1756772110684,
+      "lastAccessed": 1756774585792,
       "markers": [
         {
           "id": "ID_6bd888ba3af8",
@@ -80,98 +213,6 @@
           "command": false,
           "percent": null,
           "description": "Blue Water Inn",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": []
-    },
-    {
-      "id": "VillageOfBaroviaLeaflet",
-      "lastAccessed": 1756772110684,
-      "markers": [
-        {
-          "id": "ID_79583b094b39",
-          "type": "default",
-          "loc": [
-            947.6666564941406,
-            281.0014550304647
-          ],
-          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.27441548342818817,
-            -0.724515792426713
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_ebfb58f99849",
-          "type": "default",
-          "loc": [
-            161.54164123535156,
-            407.91472915214166
-          ],
-          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_1a3938b8c959",
-          "type": "default",
-          "loc": [
-            405.54164123535156,
-            444.9180939100913
-          ],
-          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_29c969fb0bab",
-          "type": "default",
-          "loc": [
-            548.5416412353516,
-            508.92391403195006
-          ],
-          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_a9d8da9848fa",
-          "type": "default",
-          "loc": [
-            666.5416412353516,
-            506.92373215314194
-          ],
-          "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"

@@ -15,3 +15,4 @@ Where Location = this.Location
 ```
 
 
+![[Village of Barovia Map]]

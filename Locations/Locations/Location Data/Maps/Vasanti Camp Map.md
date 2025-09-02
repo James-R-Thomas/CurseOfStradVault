@@ -7,9 +7,11 @@ mapCalc1: 3.7037037037037033
 ---
 
 
+
+
 ```leaflet  
-id: TownOfVallakiLeaflet ### Must be unique with no spaces  
-image: [[Town of Vallaki.png]] ### Link to the map image file. Do not add a ! in front of the image  
+id: VasantiCampLeaflet ### Must be unique with no spaces  
+image: [[Vasanti Camp.webp]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [1276, 2128]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 650px ### Size of the leaflet embed in px on your screen  
 width: 90% ### Size of the leaflet embed in your note  
