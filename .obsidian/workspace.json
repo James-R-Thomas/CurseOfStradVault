@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Locations/Village of Barovia Page.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Village of Barovia Page"
+              "title": "Village of Barovia Map"
             }
           }
         ]
@@ -188,10 +188,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9971f8a9e29e8052",
+  "active": "6dee0424c2d66e1f",
   "lastOpenFiles": [
-    "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
+    "Locations/Locations/Location Data/Maps/Images/Village of Barovia.png",
+    "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
     "Locations/Locations/Village of Barovia Page.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
     "z_Templates/Insert Location Map.md",
     "z_Templates/Leaflet Map Template.md",
     "z_Templates/Location Template.md",
@@ -215,12 +217,9 @@
     "Locations/Places/Stockyard.md",
     "Locations/Places/Blue Water Inn.md",
     "NPCs/NPC Files/PlayerNPCFiles/Beucephalus.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Urwin Martikov.md",
-    "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
     "Locations/Locations/Location Data",
     "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
     "Locations/Locations/Location Data/Maps/Images",
-    "Locations/Locations/Location Data/Maps/Images/Village of Barovia.png",
     "Locations/Locations/Location Data/Maps",
     "Locations/New folder",
     "Locations/Locations",
