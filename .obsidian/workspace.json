@@ -11,10 +11,14 @@
             "id": "49bd9ad364ff8ad8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lady Lydia Petrovna"
             }
           }
         ]
@@ -184,8 +188,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9971f8a9e29e8052",
+  "active": "49bd9ad364ff8ad8",
   "lastOpenFiles": [
+    "NPCs/Player NPCs.base",
+    "Locations/Places/Burgomaster's Mansion.md",
+    "Locations/Places/Blue Water Inn.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Baron Vargas Vallakovich.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/07-chapter-5-the-town-of-vallaki.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
+    "Locations/Places/Coffin Maker.md",
+    "Locations/Places/Stockyard.md",
+    "Locations/Places/Toy Shop.md",
     "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
     "Locations/Locations/Vistani Camp Page.md",
     "Locations/Locations/Village of Barovia Page.md",
@@ -203,20 +216,10 @@
     "z_Templates/Place Template.md",
     "z_Templates/PlayerNPC_Template.md",
     "NPCs/NPC Files/PlayerNPCFiles/Madam Eva.md",
-    "NPCs/Player NPCs.base",
     "NPCs/NPC Files/PlayerNPCFiles/Donavich.md",
     "NPCs/NPC Files/PlayerNPCFiles/Morgantha.md",
     "NPCs/NPC Files/PlayerNPCFiles/Piccolo.md",
     "NPCs/NPC Files/PlayerNPCFiles/Danika Dorakova.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Baron Vargas Vallakovich.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Gadof Blinsky.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Szoldar Szoldarovich.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Yevgeni Krushkin.md",
-    "Locations/Places/Toy Shop.md",
-    "Locations/Places/Burgomaster's Mansion.md",
-    "Locations/Places/Coffin Maker.md",
-    "Locations/Places/Stockyard.md",
-    "Locations/Places/Blue Water Inn.md",
     "Locations/Locations/Location Data",
     "Locations/Locations/Location Data/Maps/Images",
     "Locations/Locations/Location Data/Maps",

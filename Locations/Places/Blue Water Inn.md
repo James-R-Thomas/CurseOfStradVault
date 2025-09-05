@@ -1,5 +1,6 @@
 ---
 Location: Town of Vallaki
+type: Place
 ---
 
 ```dataview

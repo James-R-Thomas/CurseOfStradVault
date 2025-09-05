@@ -5,7 +5,7 @@ LastKnownStatus: Alive
 Location: Town of Vallaki
 KnownByParty: true
 Pronounced: "-"
-Place: Burgomaster Mansion
+Place: Burgomaster's Mansion
 ---
     
 `="!"+this.tokenLink`
