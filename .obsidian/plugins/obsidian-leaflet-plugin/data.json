@@ -135,20 +135,24 @@
     },
     {
       "id": "TownOfVallakiLeaflet",
-      "lastAccessed": 1756774585792,
+      "lastAccessed": 1757070245521,
       "markers": [
         {
           "id": "ID_6bd888ba3af8",
           "type": "default",
           "loc": [
-            491.0267267758963,
-            1837.0526296852645
+            493.6061957539305,
+            1835.676644084716
           ],
+          "link": "Stockyard",
           "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": "Stockyard",
+          "percent": [
+            0.8626300019195093,
+            -0.38683871140590165
+          ],
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -160,27 +164,12 @@
             442.41668701171875,
             1694.064076484947
           ],
+          "link": "Coffin Maker",
           "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Coffin Maker",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_c90a1a0b788a",
-          "type": "default",
-          "loc": [
-            470.41668701171875,
-            1282.131122864117
-          ],
-          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Burgomaster's Mansion",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -192,11 +181,12 @@
             555.0872263188501,
             1318.0849807509828
           ],
+          "link": "Toy Shop",
           "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Toy Shop",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -208,11 +198,29 @@
             665.6834880141032,
             1329.380609862208
           ],
+          "link": "Blue Water Inn",
           "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Blue Water Inn",
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_8a1bb85bcb7b",
+          "type": "default",
+          "loc": [
+            469.64390362021527,
+            1277.521669445323
+          ],
+          "link": "Burgomaster's Mansion",
+          "layer": "%5B%5BTown%20of%20Vallaki.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -220,7 +228,9 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md"
+      ]
     }
   ],
   "defaultMarker": {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Locations/Untitled.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lady Lydia Petrovna"
+              "title": "Untitled"
             }
           }
         ]
@@ -190,19 +190,21 @@
   },
   "active": "49bd9ad364ff8ad8",
   "lastOpenFiles": [
-    "NPCs/Player NPCs.base",
+    "z_Templates/Location Template.md",
+    "Locations/Locations/Untitled.md",
+    "Locations/Locations/Town of Vallaki Page.md",
     "Locations/Places/Burgomaster's Mansion.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
+    "NPCs/Player NPCs.base",
     "Locations/Places/Blue Water Inn.md",
     "NPCs/NPC Files/PlayerNPCFiles/Baron Vargas Vallakovich.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/07-chapter-5-the-town-of-vallaki.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
     "Locations/Places/Coffin Maker.md",
     "Locations/Places/Stockyard.md",
     "Locations/Places/Toy Shop.md",
     "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
     "Locations/Locations/Vistani Camp Page.md",
     "Locations/Locations/Village of Barovia Page.md",
-    "Locations/Locations/Town of Vallaki Page.md",
     "Locations/Locations/Location Data/Maps/Vasanti Camp Map.md",
     "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
     "Locations/Locations/Location Data/Maps/Images/Vasanti Camp.webp",
@@ -212,7 +214,6 @@
     "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
     "z_Templates/Insert Location Map.md",
     "z_Templates/Leaflet Map Template.md",
-    "z_Templates/Location Template.md",
     "z_Templates/Place Template.md",
     "z_Templates/PlayerNPC_Template.md",
     "NPCs/NPC Files/PlayerNPCFiles/Madam Eva.md",

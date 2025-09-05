@@ -1,5 +1,5 @@
 ---
-Location:
+Location: Town of Vallaki
 ---
 `````columns
 id: kiuCgdqZb0SBEO0Bnp32T
