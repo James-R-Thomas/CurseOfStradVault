@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7bb1b350a7c7b266",
+        "id": "d585af72b2cb3135",
         "type": "tabs",
         "children": [
           {
-            "id": "49bd9ad364ff8ad8",
+            "id": "ae3d7bbbbc946295",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Locations/Locations/Untitled.md",
-                "mode": "preview",
-                "source": true
+                "file": "NPCs/Player NPCs.base",
+                "viewName": "PlayerNPC_Cards"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-grid",
+              "title": "Player NPCs"
             }
           }
         ]
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lasst",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,39 +187,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "49bd9ad364ff8ad8",
+  "active": "ae3d7bbbbc946295",
   "lastOpenFiles": [
-    "z_Templates/Location Template.md",
-    "Locations/Locations/Untitled.md",
-    "Locations/Locations/Town of Vallaki Page.md",
-    "Locations/Places/Burgomaster's Mansion.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Madam Eva.md",
+    "Locations/Locations/Village of Barovia Page.md",
     "NPCs/Player NPCs.base",
-    "Locations/Places/Blue Water Inn.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Ireena Kolyana.md",
     "NPCs/NPC Files/PlayerNPCFiles/Baron Vargas Vallakovich.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
+    "Locations/Places/Rose and Thorn's house.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Rosavalda Rose Durst.md",
+    "Locations/Places/Bildrath's Mercantile.md",
+    "Locations/Places/Church VoB.md",
+    "Locations/Places/Burgomaster's Mansion VoB.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Ismark Kolyanovich.md",
+    "Locations/Places/Mad Mary's Townhouse.md",
+    "Locations/Places/Blood of the Vine Tavern.md",
+    "Locations/Places/Cemetery VoB.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Donavich.md",
+    "Locations/Places/Burgomaster's Mansion.md",
+    "Locations/Locations/Town of Vallaki Page.md",
+    "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
+    "Locations/Locations/Untitled.md",
+    "3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md",
+    "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md",
+    "z_Templates/Location Template.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Lady Lydia Petrovna.md",
+    "Locations/Places/Blue Water Inn.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/07-chapter-5-the-town-of-vallaki.md",
     "Locations/Places/Coffin Maker.md",
-    "Locations/Places/Stockyard.md",
-    "Locations/Places/Toy Shop.md",
-    "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md",
-    "Locations/Locations/Vistani Camp Page.md",
-    "Locations/Locations/Village of Barovia Page.md",
-    "Locations/Locations/Location Data/Maps/Vasanti Camp Map.md",
-    "Locations/Locations/Location Data/Maps/Village of Barovia Map.md",
     "Locations/Locations/Location Data/Maps/Images/Vasanti Camp.webp",
     "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
     "Locations/Locations/Location Data/Maps/Images/Unconfirmed 176983.crdownload",
     "Locations/Locations/Location Data/Maps/Images/Village of Barovia.png",
-    "NPCs/NPC Files/PlayerNPCFiles/Mad Mary.md",
-    "z_Templates/Insert Location Map.md",
-    "z_Templates/Leaflet Map Template.md",
-    "z_Templates/Place Template.md",
-    "z_Templates/PlayerNPC_Template.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Madam Eva.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Donavich.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Morgantha.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Piccolo.md",
-    "NPCs/NPC Files/PlayerNPCFiles/Danika Dorakova.md",
     "Locations/Locations/Location Data",
     "Locations/Locations/Location Data/Maps/Images",
     "Locations/Locations/Location Data/Maps",

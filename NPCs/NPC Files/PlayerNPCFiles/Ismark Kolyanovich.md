@@ -5,7 +5,7 @@ LastKnownStatus: Alive
 Location: Village of Barovia
 KnownByParty: true
 Pronounced: "-"
-Place:
+Place: Burgomaster's Mansion VoB
 ---
     
 `="!"+this.tokenLink`

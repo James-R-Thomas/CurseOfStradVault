@@ -5,7 +5,7 @@ LastKnownStatus: Dead
 Location: Village of Barovia
 KnownByParty: true
 Pronounced: "-"
-Place: Church of the Village of Barovia
+Place: Church VoB
 ---
     
 `="!"+this.tokenLink`

@@ -6,7 +6,7 @@ Location: Village of Barovia
 KnownByParty: true
 Status: Alive
 Pronounced: "-"
-Place:
+Place: Mad Mary's Townhouse
 ---
     
 `="!"+this.tokenLink`

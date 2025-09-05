@@ -6,7 +6,7 @@ Location: Vistani Camp
 KnownByParty: true
 Status:
 Pronounced: "-"
-Place:
+Place: Madam Eva's Tent
 ---
 
 `="!"+this.tokenLink`

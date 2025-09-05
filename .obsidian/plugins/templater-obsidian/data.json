@@ -19,8 +19,12 @@
       "template": "z_Templates/PlayerNPC_Template.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Locations/Places",
+      "template": "z_Templates/Place Template.md"
+    },
+    {
+      "folder": "Locations/Locations",
+      "template": "z_Templates/Location Template.md"
     }
   ],
   "enable_file_templates": false,
