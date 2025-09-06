@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Locations/Old Bonegrinder.md",
-                "mode": "preview",
-                "source": true
+                "file": "NPCs/NPC Files/PlayerNPCFiles/Urwin Martikov.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Old Bonegrinder"
+              "title": "Urwin Martikov"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 227.5
   },
   "right": {
     "id": "118cbe52844457f9",
@@ -190,32 +190,35 @@
   },
   "active": "ae3d7bbbbc946295",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/adventures/curse-of-strahd/08-chapter-6-old-bonegrinder.md",
-    "Locations/Locations/Old Bonegrinder.md",
     "NPCs/Player NPCs.base",
+    "Locations/Locations/Village of Barovia Page.md",
+    "z_Templates/Location Template.md",
+    "Locations/Locations/Town of Vallaki Page.md",
+    "Locations/Places/Rose and Thorn's house.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/20-appendix-b-death-house.md",
+    "Locations/Places/Data/Rose and Thorn's house.png",
+    "Locations/Places/Data",
+    "Locations/Places/New folder",
+    "Locations/Locations/Old Bonegrinder.md",
+    "Characters/Brin Moonwhisperer/Class/wizard-xphb 1.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/08-chapter-6-old-bonegrinder.md",
     "NPCs/NPC Files/PlayerNPCFiles/Morgantha.md",
     "Locations/Locations/Black Carriage.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/04-chapter-2-the-lands-of-barovia.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/03-chapter-1-into-the-mists.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/06-chapter-4-castle-ravenloft.md",
-    "z_Templates/Location Template.md",
     "z_Templates/Place Template.md",
     "z_Templates/PlayerNPC_Template.md",
-    "Locations/Locations/Town of Vallaki Page.md",
     "Locations/Locations/Location Data/Untitled.md",
     "Locations/Locations/Vistani Camp Page.md",
-    "Locations/Locations/Village of Barovia Page.md",
     "Locations/Places/Toy Shop.md",
     "Locations/Places/Stockyard.md",
-    "Locations/Places/Rose and Thorn's house.md",
     "Locations/Places/Mad Mary's Townhouse.md",
     "Locations/Places/Coffin Maker.md",
     "Locations/Places/Church VoB.md",
     "Locations/Places/Cemetery VoB.md",
     "Locations/Places/Burgomaster's Mansion VoB.md",
     "Locations/Places/Burgomaster's Mansion.md",
-    "Locations/Places/Blue Water Inn.md",
-    "Locations/Places/Blood of the Vine Tavern.md",
     "Locations/Locations/Location Data/Maps/Images/Vasanti Camp.webp",
     "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
     "Locations/Locations/Location Data/Maps/Images/Unconfirmed 176983.crdownload",
@@ -226,14 +229,11 @@
     "Locations/New folder",
     "Locations/Locations",
     "Locations/Places",
-    "Characters/Brin Moonwhisperer/Spell Book/Book.base",
-    "Characters/Brin Moonwhisperer/Spell Book/Wizard.base",
     "NPCs/NPC Files/npc/img/anastrasya-karelova.webp",
     "NPCs/NPC Files/npc/img/153-636988936829621698.webp",
     "NPCs/NPC Files/npc/img/060-cos05-11.webp",
     "NPCs/NPC Files/npc/img/053-cos05-06.webp",
     "NPCs/NPC Files/npc/img/052-cos05-05.webp",
-    "NPCs/NPC Files/npc/img/016-cos03-04.webp",
-    "NPCs/NPC Files/npc/img/005-cos02-02.webp"
+    "NPCs/NPC Files/npc/img/016-cos03-04.webp"
   ]
 }
