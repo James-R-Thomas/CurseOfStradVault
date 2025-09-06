@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "TownOfVallakiLeaflet",
-      "lastAccessed": 1757090004954,
+      "lastAccessed": 1757104369409,
       "markers": [
         {
           "id": "ID_6bd888ba3af8",
@@ -95,12 +95,14 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Locations/Locations/Location Data/Maps/Town Of Vallaki Map.md"
+      ]
     },
     {
       "id": "VillageOfBaroviaLeaflet",
       "locked": false,
-      "lastAccessed": 1757092203141,
+      "lastAccessed": 1757104369410,
       "markers": [
         {
           "id": "ID_79583b094b39",
@@ -200,14 +202,17 @@
           "id": "ID_1bd9a9bb9889",
           "type": "default",
           "loc": [
-            703.2082977294922,
-            874.6237935135575
+            709.6666564941406,
+            877.6676829370781
           ],
           "link": "Rose and Thorn's house",
           "layer": "%5B%5BVillage%20of%20Barovia.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8570973466182403,
+            -0.5425586058823705
+          ],
           "description": "",
           "minZoom": null,
           "maxZoom": null,

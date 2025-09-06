@@ -1,8 +1,12 @@
 ---
 Location:
+type: Location
+KnownByParty: False
 ---
-`````columns
-id: kiuCgdqZb0SBEO0Bnp32T
+
+````columns
+id: <% tp.date.now("DDMMMMYYYYHHmmss") %>
+
 ===
 ```dataview
 Table WITHOUT ID file.link AS "NPCs at this Location"

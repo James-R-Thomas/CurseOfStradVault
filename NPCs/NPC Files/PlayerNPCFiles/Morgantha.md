@@ -2,10 +2,10 @@
 type: PlayerNPC
 tokenLink: "[[morgantha-cos.webp]]"
 LastKnownStatus: Dead
-Location: Bone Mill
+Location: Old Bonegrinder
 KnownByParty: true
 Pronounced: "-"
-Place: Bone Mill
+Place: Old Bonegrinder
 ---
     
 `="!"+this.tokenLink`

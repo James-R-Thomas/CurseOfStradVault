@@ -1,5 +1,7 @@
 ---
-Location:
+Location: Village of Barovia
+type: Place
+KnownByParty: true
 ---
 
 ```dataview

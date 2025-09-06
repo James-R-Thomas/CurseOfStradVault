@@ -1,5 +1,7 @@
 ---
 Location: Village of Barovia
+type: Place
+KnownByParty: False
 ---
 
 ```dataview

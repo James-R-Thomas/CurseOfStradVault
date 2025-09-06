@@ -1,5 +1,7 @@
 ---
 Location:
+type: Place
+KnownByParty: False
 ---
 
 ```dataview

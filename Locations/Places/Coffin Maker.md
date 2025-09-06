@@ -1,6 +1,7 @@
 ---
 Location: Town of Vallaki
 type: Place
+KnownByParty: true
 ---
 
 ```dataview
