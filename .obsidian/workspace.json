@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/NPC Files/PlayerNPCFiles/Urwin Martikov.md",
+                "file": "3-Mechanics/CLI/spells/light-xphb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urwin Martikov"
+              "title": "light-xphb"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 480.5
   },
   "right": {
     "id": "118cbe52844457f9",
@@ -190,6 +190,15 @@
   },
   "active": "ae3d7bbbbc946295",
   "lastOpenFiles": [
+    "Characters/Brin Moonwhisperer/Spell Book/Wizard.base",
+    "Characters/Brin Moonwhisperer/Spell Book/Book.base",
+    "3-Mechanics/CLI/spells/disintegrate-xphb.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/11-rules-glossary.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/01-introduction-welcome-to-adventure.md",
+    "y_Common Rule Lookup/actions.md",
+    "NPCs/NPC Files/PlayerNPCFiles/Urwin Martikov.md",
     "NPCs/Player NPCs.base",
     "Locations/Locations/Village of Barovia Page.md",
     "z_Templates/Location Template.md",
@@ -212,13 +221,6 @@
     "Locations/Locations/Location Data/Untitled.md",
     "Locations/Locations/Vistani Camp Page.md",
     "Locations/Places/Toy Shop.md",
-    "Locations/Places/Stockyard.md",
-    "Locations/Places/Mad Mary's Townhouse.md",
-    "Locations/Places/Coffin Maker.md",
-    "Locations/Places/Church VoB.md",
-    "Locations/Places/Cemetery VoB.md",
-    "Locations/Places/Burgomaster's Mansion VoB.md",
-    "Locations/Places/Burgomaster's Mansion.md",
     "Locations/Locations/Location Data/Maps/Images/Vasanti Camp.webp",
     "Locations/Locations/Location Data/Maps/Images/Town of Vallaki.png",
     "Locations/Locations/Location Data/Maps/Images/Unconfirmed 176983.crdownload",
@@ -228,7 +230,6 @@
     "Locations/Locations/Location Data/Maps",
     "Locations/New folder",
     "Locations/Locations",
-    "Locations/Places",
     "NPCs/NPC Files/npc/img/anastrasya-karelova.webp",
     "NPCs/NPC Files/npc/img/153-636988936829621698.webp",
     "NPCs/NPC Files/npc/img/060-cos05-11.webp",

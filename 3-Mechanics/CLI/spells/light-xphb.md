@@ -2,57 +2,57 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xphb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/feat/artificer-initiate
-- spell/feat/blessed-warrior
-- spell/feat/magic-initiate
-- spell/level/cantrip
-- spell/optfeature/pact-of-the-tome
-- spell/race/aasimar
-- spell/race/elf
-- spell/school/evocation
-- spell/subclass/arcana-domain
-- spell/subclass/arcane-trickster
-- spell/subclass/celestial-patron
-- spell/subclass/college-of-lore
-- spell/subclass/divine-soul
-- spell/subclass/eldritch-knight
-- spell/subclass/evoker
-- spell/subrace/half-elf-moon-elf-or-sun-elf-descent
+  - compendium/src/5e/xphb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/sorcerer
+  - spell/class/wizard
+  - spell/feat/artificer-initiate
+  - spell/feat/blessed-warrior
+  - spell/feat/magic-initiate
+  - spell/level/cantrip
+  - spell/optfeature/pact-of-the-tome
+  - spell/race/aasimar
+  - spell/race/elf
+  - spell/school/evocation
+  - spell/subclass/arcana-domain
+  - spell/subclass/arcane-trickster
+  - spell/subclass/celestial-patron
+  - spell/subclass/college-of-lore
+  - spell/subclass/divine-soul
+  - spell/subclass/eldritch-knight
+  - spell/subclass/evoker
+  - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Arcana Domain)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Divine Soul)
-- Warlock (Celestial Patron)
-- Wizard
-- Wizard (Evoker)
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Arcana Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul)
+  - Warlock (Celestial Patron)
+  - Wizard
+  - Wizard (Evoker)
 aliases:
-- Light
-CastingTime: 
-- 1 Action
+  - Light
+CastingTime:
+  - 1 Action
 Range:
-- Touch
+  - Touch
 Components:
-- V, M (a firefly or phosphorescent moss)
+  - V, M (a firefly or phosphorescent moss)
 Duration:
-- 1 hour
+  - 1 hour
 School:
-- Evocation
-InBook: false
-Prepared: false
+  - Evocation
+InBook: true
+Prepared: true
 SpellLevel:
-- cantrip
+  - cantrip
 ---
 # Light
 *cantrip, Evocation*  

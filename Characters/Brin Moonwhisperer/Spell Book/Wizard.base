@@ -20,9 +20,9 @@ views:
       - School
       - Duration
     sort:
-      - property: School
-        direction: ASC
       - property: SpellLevel
+        direction: DESC
+      - property: School
         direction: ASC
       - property: aliases
         direction: ASC
